@@ -24,8 +24,7 @@
       "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
       "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
-      "AdsType": "Unity",
-      "AdsTypes": "AdMob, Unity",
+      "AdsType": "AdMob, Unity",
       "BannerAdsType": "Unity",
       "InterstitialAdsType": "Unity",
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
