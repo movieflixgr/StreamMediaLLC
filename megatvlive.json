@@ -25,7 +25,7 @@
       "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
       "AdsType": "Unity",
-      "AdsTypes": "Admob, Unity",
+      "AdsTypes": "AdMob, Unity",
       "BannerAdsType": "Unity",
       "InterstitialAdsType": "Unity",
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
