@@ -27,7 +27,7 @@
       "AdsType": "AdMob, Unity",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
-      "StartWithRewarded" true,
+      "StartWithRewarded": true,
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
     }
   ],
