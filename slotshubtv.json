@@ -1,0 +1,78 @@
+{
+  "Status": [
+    {
+      "isLive": true,
+      "showBannerAds": true,
+      "showInterstitialAds": true,
+      "promote": false,
+      "promoteTitle": "MovieFlix Update Available",
+      "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.filmxy.vip/",
+      "promoteNotes": "*Keep in mind that...",
+      "promoteMessage": "",
+      "promoteMethod": "OnPlay",
+      "promoteActivities": "TV, Movies, Series",
+      "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
+      "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "minVersion": "1.0",
+      "maxVersion": "1.2",
+      "contactName": "Med1a Ltd",
+      "contactEmail": "medialtdcontact@gmail.com",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
+      "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
+      "AdsType": "AdMob, Unity",
+      "BannerAdsType": "AdMob",
+      "InterstitialAdsType": "AdMob",
+      "StartWithRewarded": true,
+      "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
+    }
+  ],
+  "Ads": [
+    {
+      "APP_ID_AdMob": "ca-app-pub-3940256099942544~3347511713",
+      "Banner_Id_AdMob": "ca-app-pub-3940256099942544/6300978111",
+      "Banner_Id_AdMobReal": "ca-app-pub-4214237816210399/5428128449",
+      "Interstitial_Id_AdMob": "ca-app-pub-3940256099942544/1033173712",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-4214237816210399/9774266248",
+      "Rewarded_Id_AdMob": "ca-app-pub-3940256099942544/5354046379",
+      "APP_ID_Unity": "5538795",
+      "Banner_Id_Unity": "Banner_Android",
+      "Interstitial_Id_Unity": "Interstitial_Android",
+      "DelayBannerAdMob": 120000,
+      "DelayBannerUnity": 60000,
+      "DelayInterstitialAdMob": 240000,
+      "DelayInterstitialUnity": 60000
+    }
+  ],
+  "Rating": [
+    {
+      "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής MovieFlix, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής MovieFlix είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής MovieFlix. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας."
+    }
+  ],
+  "Items": [
+    {
+      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
+      "Url": "https://streamcdnh12-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "Type": "Video"
+    },
+    {
+      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
+      "Url": "https://www.megatv.com/live/",
+      "Type": "Direct"
+    },
+    {
+      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
+      "Url": "https://streamcdnh12-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "Type": "Video"
+    },
+    {
+      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
+      "Url": "https://www.megatv.com/live/",
+      "Type": "Direct"
+    }
+  ]
+}
