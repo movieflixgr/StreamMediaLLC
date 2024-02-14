@@ -27,8 +27,8 @@
       "AdsType": "AdMob, Unity",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
-      "StartWithRewarded": true,
-      "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
+      "StartWithRewarded": false,
+      "iconToolbarImageUrl": "https://www.slotshub33.com/"
     }
   ],
   "Ads": [
@@ -55,24 +55,19 @@
   ],
   "Items": [
     {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://streamcdnh12-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "Type": "Video"
+      "Image": "https://www.slotshub33.com/assets/img/slotshub_skillz_logo.svg",
+      "Url": "https://www.slotshub33.com/stream/slotshub",
+      "Type": "Live"
     },
     {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://www.megatv.com/live/",
-      "Type": "Direct"
+      "Image": "https://www.slotshub33.com/assets/img/slotshub_skillz_logo.svg",
+      "Url": "https://www.slotshub33.com/stream/slots-girls",
+      "Type": "Live"
     },
     {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://streamcdnh12-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "Type": "Video"
-    },
-    {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://www.megatv.com/live/",
-      "Type": "Direct"
+      "Image": "https://www.slotshub33.com/assets/img/slotshub_skillz_logo.svg",
+      "Url": "https://www.slotshub33.com/stream/bonusdaddies",
+      "Type": "Live"
     }
   ]
 }
