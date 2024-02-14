@@ -28,7 +28,7 @@
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "StartWithRewarded": false,
-      "iconToolbarImageUrl": "https://www.slotshub33.com/assets/img/slotshub_skillz_logo.svg"
+      "iconToolbarImageUrl": "https://i.ibb.co/Jc9Xfss/icon.png"
     }
   ],
   "Ads": [
@@ -55,17 +55,17 @@
   ],
   "Items": [
     {
-      "Image": "https://www.slotshub33.com/images/rect400/son_of_zeus_live_thumb.png",
+      "Image": "https://i.ibb.co/wQMjHP7/SLOTSHUB.png",
       "Url": "https://www.slotshub33.com/stream/slotshub",
       "Type": "Live"
     },
     {
-      "Image": "https://www.slotshub33.com/images/rect400/son_of_zeus_live_thumb.png",
+      "Image": "https://i.ibb.co/5YszJBG/Slotsgirls.png",
       "Url": "https://www.slotshub33.com/stream/slots-girls",
       "Type": "Live"
     },
     {
-      "Image": "https://www.slotshub33.com/images/rect400/son_of_zeus_live_thumb.png",
+      "Image": "https://i.ibb.co/25PkWKc/Bonus-Daddies.png",
       "Url": "https://www.slotshub33.com/stream/bonusdaddies",
       "Type": "Live"
     }
