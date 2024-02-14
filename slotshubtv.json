@@ -28,7 +28,9 @@
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "StartWithRewarded": false,
-      "iconToolbarImageUrl": "https://i.ibb.co/64h3rQx/icon.png"
+      "iconToolbarImageUrl": "https://i.ibb.co/64h3rQx/icon.png",
+      "liveImageUrl": "https://i.ibb.co/vZ87hK0/LIVE.png",
+      "offlineImageUrl": "https://i.ibb.co/hFws3VM/OFFLINE.png"
     }
   ],
   "Ads": [
