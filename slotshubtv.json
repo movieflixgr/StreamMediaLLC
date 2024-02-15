@@ -27,7 +27,7 @@
       "AdsType": "AdMob, Unity",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
-      "StartWithRewarded": false,
+      "StartWithRewarded": true,
       "iconToolbarImageUrl": "https://i.ibb.co/64h3rQx/icon.png",
       "liveImageUrl": "https://i.ibb.co/vZ87hK0/LIVE.png",
       "offlineImageUrl": "https://i.ibb.co/hFws3VM/OFFLINE.png"
@@ -44,10 +44,10 @@
       "APP_ID_Unity": "5538795",
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
-      "DelayBannerAdMob": 120000,
+      "DelayBannerAdMob": 60000,
       "DelayBannerUnity": 60000,
-      "DelayInterstitialAdMob": 240000,
-      "DelayInterstitialUnity": 60000
+      "DelayInterstitialAdMob": 120000,
+      "DelayInterstitialUnity": 120000
     }
   ],
   "Rating": [
