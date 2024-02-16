@@ -25,9 +25,9 @@
       "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
       "AdsType": "AdMob, Unity",
-      "BannerAdsType": "AdMob",
-      "InterstitialAdsType": "AdMob",
-      "StartWithRewarded": true,
+      "BannerAdsType": "Unity",
+      "InterstitialAdsType": "Unity",
+      "StartWithRewarded": false,
       "iconToolbarImageUrl": "https://i.ibb.co/64h3rQx/icon.png",
       "liveImageUrl": "https://i.ibb.co/vZ87hK0/LIVE.png",
       "offlineImageUrl": "https://i.ibb.co/hFws3VM/OFFLINE.png"
