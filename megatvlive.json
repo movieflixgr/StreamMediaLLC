@@ -4,6 +4,7 @@
       "isLive": true,
       "showBannerAds": true,
       "showInterstitialAds": true,
+      "StartWithRewarded": true,
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
@@ -27,7 +28,7 @@
       "AdsType": "AdMob, Unity",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
-      "StartWithRewarded": true,
+      "RewardedAdsType" : "Unity",
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
     }
   ],
@@ -42,10 +43,13 @@
       "APP_ID_Unity": "5538795",
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
+      "Rewarded_Id_AdMob": "Rewarded_Android",
       "DelayBannerAdMob": 120000,
       "DelayBannerUnity": 60000,
       "DelayInterstitialAdMob": 240000,
-      "DelayInterstitialUnity": 60000
+      "DelayInterstitialUnity": 60000,
+      "DelayRewardedAdMob": 120000,
+      "DelayRewardedUnity": 30000
     }
   ],
   "Rating": [
