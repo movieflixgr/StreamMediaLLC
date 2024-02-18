@@ -1,0 +1,67 @@
+{
+  "Status": [
+    {
+      "isLive": true,
+      "showBannerAds": true,
+      "showInterstitialAds": true,
+      "showRewardedAds": true,
+      "promote": false,
+      "promoteTitle": "MovieFlix Update Available",
+      "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.filmxy.vip/",
+      "promoteNotes": "*Keep in mind that...",
+      "promoteMessage": "",
+      "promoteMethod": "OnPlay",
+      "promoteActivities": "TV, Movies, Series",
+      "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
+      "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1) της εφαρμογής \"MEGA TV LIVE\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "minVersion": "1.0",
+      "maxVersion": "1.0",
+      "contactName": "Stream Media LLC",
+      "contactEmail": "streammediacontact@gmail.com",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MEGA TV LIVE\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MEGA TV LIVE\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "PrivacyPolicyUrl": "https://sites.google.com/view/megatvliveprivacypolicy",
+      "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
+      "AdsType": "AdMob, Unity",
+      "BannerAdsType": "Unity",
+      "InterstitialAdsType": "Unity",
+      "RewardedAdsType" : "Unity",
+      "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
+    }
+  ],
+  "Ads": [
+    {
+      "APP_ID_AdMob": "ca-app-pub-4178615560355204~7582272046",
+      "Banner_Id_AdMob": "ca-app-pub-4178615560355204/7171208504",
+      "Banner_Id_AdMobReal": "ca-app-pub-4178615560355204/7171208504",
+      "Interstitial_Id_AdMob": "ca-app-pub-4178615560355204/1918881829",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-4178615560355204/1918881829",
+      "Rewarded_Id_AdMob": "ca-app-pub-4178615560355204/3087548322",
+      "APP_ID_Unity": "5538795",
+      "Banner_Id_Unity": "Banner_Android",
+      "Interstitial_Id_Unity": "Interstitial_Android",
+      "Rewarded_Id_Unity": "Interstitial_Android",
+      "DelayBannerAdMob": 60000,
+      "DelayBannerUnity": 30000,
+      "DelayInterstitialAdMob": 60000,
+      "DelayInterstitialUnity": 30000,
+      "DelayRewardedAdMob": 60000,
+      "DelayRewardedUnity": 30000
+    }
+  ],
+  "Rating": [
+    {
+      "InfoText": "Σημείωση σχετικά με την Αποποίηση Νομικών Ευθυνών\n\nΑυτή η εφαρμογή προσφέρει τη δυνατότητα πρόσβασης στον δωρεάν τηλεοπτικό σταθμό «MEGA» μέσω των επίσημων πηγών μετάδοσης. Η εφαρμογή αυτή λειτουργεί ως διαμεσολαβητής μεταξύ του χρήστη και της επίσημης πηγής μετάδοσης, παρέχοντας απλώς τη δυνατότητα προβολής του περιεχομένου που ήδη διατίθεται δωρεάν στο κοινό.\n\nΟι νομικοί κάτοχοι του περιεχομένου που προβάλλεται μέσω αυτής της εφαρμογής που επιθυμούν την απόσυρσή της ή έχουν οποιοδήποτε άλλο αίτημα που σχετίζεται με τη χρήση του περιεχομένου τους, παρακαλούνται να επικοινωνήσουν με την ομάδα προγραμματιστών της εφαρμογής προτού προβούν σε οποιαδήποτε άλλη νομική ενέργεια. Είμαστε διαθέσιμοι να συζητήσουμε τυχόν ανησυχίες ή αιτήματα που μπορεί να έχετε και να εργαστούμε εποικοδομητικά για την επίλυσή τους.\n\nΠαρακαλούμε να λάβετε υπόψη ότι η εφαρμογή δεν φιλοξενεί ούτε διαθέτει κανένα περιεχόμενο αυτόνομα, απλώς παρέχει πρόσβαση σε περιεχόμενο που ήδη διατίθεται δωρεάν στο διαδίκτυο.\n\nΕυχαριστούμε για την κατανόηση και τη συνεργασία.\n\nStream Media LLC"
+    }
+  ],
+  "Items": [
+    {
+      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
+      "Url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
+      "Type": "Video"
+    }
+  ]
+}
