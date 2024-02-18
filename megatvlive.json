@@ -4,7 +4,7 @@
       "isLive": true,
       "showBannerAds": true,
       "showInterstitialAds": true,
-      "showRewardedAds": true,
+      "showRewardedAds": false,
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
