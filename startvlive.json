@@ -26,9 +26,9 @@
       "PrivacyPolicyUrl": "https://sites.google.com/view/startvliveprivacypolicy",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
       "AdsType": "AdMob, Unity",
-      "BannerAdsType": "Unity",
-      "InterstitialAdsType": "Unity",
-      "RewardedAdsType": "Unity",
+      "BannerAdsType": "AdMob",
+      "InterstitialAdsType": "AdMob",
+      "RewardedAdsType": "AdMob",
       "iconToolbarImageUrl": "https://i.ibb.co/R2mNx5f/staricon.png"
     }
   ],
@@ -44,11 +44,11 @@
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
       "Rewarded_Id_Unity": "Interstitial_Android",
-      "DelayBannerAdMob": 60000,
+      "DelayBannerAdMob": 10000,
       "DelayBannerUnity": 30000,
-      "DelayInterstitialAdMob": 120000,
+      "DelayInterstitialAdMob": 30000,
       "DelayInterstitialUnity": 30000,
-      "DelayRewardedAdMob": 60000,
+      "DelayRewardedAdMob": 5000,
       "DelayRewardedUnity": 30000
     }
   ],
@@ -62,11 +62,6 @@
       "Image": "https://i.ibb.co/3R5qfmk/mega-live.png",
       "Url": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
       "Type": "Video"
-    },
-    {
-      "Image": "https://i.ibb.co/FYWX5w2/NEWAPP.png",
-      "Url": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
-      "Type": "Direct"
     }
   ]
 }
