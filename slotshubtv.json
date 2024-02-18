@@ -26,9 +26,9 @@
       "PrivacyPolicyUrl": "https://sites.google.com/view/slotshublivetv",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
       "AdsType": "AdMob, Unity",
-      "BannerAdsType": "Unity",
-      "InterstitialAdsType": "Unity",
-      "RewardedAdsType": "Unity",
+      "BannerAdsType": "AdMob",
+      "InterstitialAdsType": "AdMob",
+      "RewardedAdsType": "AdMob",
       "iconToolbarImageUrl": "https://i.ibb.co/64h3rQx/icon.png",
       "liveImageUrl": "https://i.ibb.co/vZ87hK0/LIVE.png",
       "offlineImageUrl": "https://i.ibb.co/hFws3VM/OFFLINE.png"
