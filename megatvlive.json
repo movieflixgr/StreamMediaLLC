@@ -44,11 +44,11 @@
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
       "Rewarded_Id_Unity": "Interstitial_Android",
-      "DelayBannerAdMob": 60000,
+      "DelayBannerAdMob": 10000,
       "DelayBannerUnity": 30000,
-      "DelayInterstitialAdMob": 60000,
+      "DelayInterstitialAdMob": 30000,
       "DelayInterstitialUnity": 30000,
-      "DelayRewardedAdMob": 60000,
+      "DelayRewardedAdMob": 5000,
       "DelayRewardedUnity": 30000
     }
   ],
