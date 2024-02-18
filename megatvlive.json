@@ -46,7 +46,7 @@
       "Rewarded_Id_Unity": "Interstitial_Android",
       "DelayBannerAdMob": 60000,
       "DelayBannerUnity": 30000,
-      "DelayInterstitialAdMob": 60000,
+      "DelayInterstitialAdMob": 120000,
       "DelayInterstitialUnity": 30000,
       "DelayRewardedAdMob": 60000,
       "DelayRewardedUnity": 30000
