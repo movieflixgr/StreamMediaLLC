@@ -17,8 +17,8 @@
       "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
       "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
       "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1) της εφαρμογής \"MEGA TV LIVE\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
-      "minVersion": "1.1",
-      "maxVersion": "1.1",
+      "minVersion": "1.0",
+      "maxVersion": "1.0",
       "contactName": "Stream Media LLC",
       "contactEmail": "streammediacontact@gmail.com",
       "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MEGA TV LIVE\"",
@@ -28,7 +28,7 @@
       "AdsType": "AdMob, Unity",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
-      "RewardedAdsType" : "AdMob",
+      "RewardedAdsType": "AdMob",
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
     }
   ],
@@ -46,7 +46,7 @@
       "Rewarded_Id_Unity": "Interstitial_Android",
       "DelayBannerAdMob": 60000,
       "DelayBannerUnity": 30000,
-      "DelayInterstitialAdMob": 120000,
+      "DelayInterstitialAdMob": 60000,
       "DelayInterstitialUnity": 30000,
       "DelayRewardedAdMob": 60000,
       "DelayRewardedUnity": 30000
@@ -64,18 +64,8 @@
       "Type": "Video"
     },
     {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://www.megatv.com/live/",
-      "Type": "Direct"
-    },
-    {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://streamcdnh12-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "Type": "Video"
-    },
-    {
-      "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://www.megatv.com/live/",
+      "Image": "https://i.ibb.co/FYWX5w2/NEWAPP.png",
+      "Url": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
       "Type": "Direct"
     }
   ]
