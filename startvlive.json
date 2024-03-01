@@ -5,7 +5,7 @@
       "showBannerAds": true,
       "showInterstitialAds": true,
       "showRewardedAds": true,
-      "showInterstitialRewardedAds": true,
+      "showRewardedInterstitialAds": true,
       "promote": false,
       "promoteTitle": "STAR TV LIVE Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
