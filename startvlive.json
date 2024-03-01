@@ -5,6 +5,7 @@
       "showBannerAds": true,
       "showInterstitialAds": true,
       "showRewardedAds": true,
+      "showInterstitialRewardedAds": true,
       "promote": false,
       "promoteTitle": "STAR TV LIVE Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
@@ -49,7 +50,10 @@
       "DelayInterstitialAdMob": 30000,
       "DelayInterstitialUnity": 30000,
       "DelayRewardedAdMob": 5000,
-      "DelayRewardedUnity": 30000
+      "DelayRewardedUnity": 30000,
+      "delayInterstitialRewardedMainActivity": 600000,
+      "delayInterstitialStreamingActivity": 1200000,
+      "delayBannerStreamingActivity": 90000
     }
   ],
   "Rating": [
