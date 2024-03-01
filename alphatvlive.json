@@ -51,8 +51,8 @@
       "DelayInterstitialUnity": 30000,
       "DelayRewardedAdMob": 5000,
       "DelayRewardedUnity": 30000,
-      "delayInterstitialRewardedMainActivity": 600000,
-      "delayInterstitialStreamingActivity": 1200000,
+      "delayInterstitialRewardedMainActivity": 240000,
+      "delayInterstitialStreamingActivity": 60000,
       "delayBannerStreamingActivity": 90000
     }
   ],
