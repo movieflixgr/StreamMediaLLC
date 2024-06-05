@@ -36,12 +36,12 @@
   ],
   "Ads": [
     {
-      "APP_ID_AdMob": "ca-app-pub-3940256099942544~3347511713",
-      "Banner_Id_AdMob": "ca-app-pub-4178615560355204/6554583256",
-      "Banner_Id_AdMobReal": "ca-app-pub-4178615560355204/6554583256",
-      "Interstitial_Id_AdMob": "ca-app-pub-4178615560355204/3826964670",
-      "Interstitial_Id_AdMobReal": "ca-app-pub-4178615560355204/3826964670",
-      "Rewarded_Id_AdMob": "ca-app-pub-4178615560355204/7756624912",
+      "APP_ID_AdMob": "ca-app-pub-5015948858796704~3379903772",
+      "Banner_Id_AdMob": "ca-app-pub-5015948858796704/8496607854",
+      "Banner_Id_AdMobReal": "ca-app-pub-5015948858796704/8496607854",
+      "Interstitial_Id_AdMob": "ca-app-pub-5015948858796704/4696963648",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-5015948858796704/4696963648",
+      "Rewarded_Id_AdMob": "ca-app-pub-5015948858796704/4313185809",
       "APP_ID_Unity": "5538795",
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
