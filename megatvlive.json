@@ -64,10 +64,10 @@
   "Items": [
     {
       "Image": "https://i.ibb.co/312K5jS/live-mega.png",
-      "Url": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
-      "UrlOldEmbed": "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
+      "UrlOld": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
+      "Url": "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
       "UrlOld": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "Type": "Video",
+      "Type": "Embed",
       "Embed": true,
       "EmbedFullscreen": "[aria-label=\"Fullscreen\""
     }
