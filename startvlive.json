@@ -66,6 +66,11 @@
       "Image": "https://i.ibb.co/3R5qfmk/mega-live.png",
       "Url": "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8",
       "Type": "Video"
+    },
+    {
+      "Image": "https://www.ertnews.gr/wp-content/uploads/2025/05/EUROVISION-CHANNEL-black-logo-alpha-copy-1-1-e1747126571109.jpg",
+      "Url": "https://ertflix.akamaized.net/ertlive/seasonal/default/index.mpd",
+      "Type": "Video"
     }
   ]
 }
