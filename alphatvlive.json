@@ -63,6 +63,11 @@
   ],
   "Items": [
     {
+      "Image": "https://www.ertnews.gr/wp-content/uploads/2025/05/EUROVISION-CHANNEL-black-logo-alpha-copy-1-1-e1747126571109.jpg",
+      "Url": "https://ertflix.akamaized.net/ertlive/seasonal/default/index.mpd",
+      "Type": "Video"
+    },
+    {
       "Image": "https://i.ibb.co/729BTfK/live-mega.png",
       "Url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
       "Type": "Video"
