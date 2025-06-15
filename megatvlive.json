@@ -30,6 +30,7 @@
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "AdMob",
+      "isCASEnabled": true,
       "iconToolbarImageUrl": "https://i.ibb.co/jgTP3dW/megaicon.png"
     }
   ],
@@ -53,7 +54,16 @@
       "DelayRewardedUnity": 30000,
       "delayInterstitialRewardedMainActivity": 240000,
       "delayInterstitialStreamingActivity": 60000,
-      "delayBannerStreamingActivity": 90000
+      "delayBannerStreamingActivity": 90000,
+      "isShowingCASBannerTVForNoFill": true,
+      "isShowingCASBannerSeriesForNoFill": true,
+      "isShowingCASInterstitialTVForNoFill": true,
+      "isShowingCASInterstitialSeriesForNoFill": true,
+      "isShowingCASRewardedSeriesForNoFill": true,
+      "isShowingRewardedAdForTV": true,
+      "isShowingRewardedAdForSeries": true,
+      "isShowingFirstTimeRewardedAdForTV": true,
+      "isShowingFirstTimeRewardedAdForSeries": true
     }
   ],
   "Rating": [
